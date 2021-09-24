@@ -6,8 +6,8 @@ const page = `<html>
     <head>
         <title>Leah Carlin</title>
     </head>
-    <h1>Why do comedians love !false?</h1>
-    <p>It's funny because it's true.</p>
+    <h1>What do computers and air conditioners have in common?</h1>
+    <p>They both become useless when you open windows</p>
 
 </html>`
 
